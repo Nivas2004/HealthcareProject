@@ -74,6 +74,8 @@ The result (Normal / Precancerous / Cancerous) is returned to the UI.
 
 User receives interpretation and risk assessment.
 
+Live Web App Link -->  https://deepgynscan-frontend5.onrender.com/
+
 ⚙️ Setup Instructions
 1. Clone the Repository
 git clone https://github.com/Nivas2004/HealthcareProject.git
